@@ -25,3 +25,12 @@ Project Breakdown - A macro that parses throug a data base and creates an excel 
 Face/Make-up Replacement workflow for using DeepFakes.
 
 General Compositing Department Upkeep - Ability to solve problematic scripts, quick turn over(2-3 days) and prototyping of tools/gizmos requested by artists, weekly dev/tech meetings, etc
+
+
+# Others
+
+Instagram Bot    - An app that likes and comments on posts on Instagram, using the instagram api and selenium, yolo object detection, and a web based madlib generator.
+
+Parking Detector - A Jetson Nano device with two cameras that can detect outfits of parking atendents in Vancouver BC and email the user so that they can pay the meter only when the parking attendent is detected.
+
+   
