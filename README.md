@@ -1,6 +1,6 @@
-# Demo
+#Demo
 
-CameraMonkey      - Onset Data <-> Internal database such as ShotGrid or Ftrack
+CameraMonkey      - A standalone python app to connect the data gathered on set to an internal database such as ShotGrid or Ftrack
 
 Dashboard         - Fully customizable interface for interacting with ShotGrid for artists
 
