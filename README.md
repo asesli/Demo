@@ -1,4 +1,4 @@
-# Demo
+# VFX Related
 
 CameraMonkey      - A standalone python app to connect the data gathered on set to an internal database such as ShotGrid or Ftrack
 
@@ -34,3 +34,5 @@ Instagram Bot    - An app that likes and comments on posts on Instagram, using t
 Parking Detector - A Jetson Nano device with two cameras that can detect outfits of parking atendents in Vancouver BC and email the user so that they can pay the meter only when the parking attendent is detected.
 
    
+
+ 
